@@ -1,0 +1,24 @@
+{
+  "name": "zestybytes.com",
+  "version": "1.0.0",
+  "description": "Homepage for Jason Frazier",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/philbert/Documents/_repos/zestybytes.git/"
+  },
+  "author": "Jason Frazier",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
